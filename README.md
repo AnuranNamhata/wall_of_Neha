@@ -96,5 +96,5 @@ Your contributions will be reviewed and, if accepted, merged into the main proje
 ## License
 
 
-License is set now for now.
+License is set none for now.
 
